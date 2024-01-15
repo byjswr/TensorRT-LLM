@@ -1,5 +1,0 @@
-tiktoken
-datasets
-kaldialign
-openai-whisper
-soundfile
